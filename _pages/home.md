@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Jones Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Jones Lab at Imperial College London."
 sitemap: false
 permalink: /
 ---
