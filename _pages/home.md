@@ -64,6 +64,5 @@ We are grateful for funding from BLANK, [LMU ](https://www.lmu.de) [NWO](www.nwo
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_Blue_2024.jpg" style="width:210px"> 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Medical_Research_Council_logo.jpg" style="width: 210px">
 </figure>
