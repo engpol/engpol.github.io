@@ -486,7 +486,7 @@
 
 - title: "A targeted RNAi screen identifies endocytic trafficking factors that control GLP-1 receptor signaling in pancreatic beta cells"
   image: 
-  description:  Here, we screened 29 proteins with known functions in G protein–coupled receptor trafficking for their role in GLP-1R potentiation of insulin secretion in pancreatic β-cells. We identify five (clathrin, dynamin1, AP2, sorting nexins [SNX] SNX27, and SNX1) that increase and four (huntingtin-interacting protein 1 [HIP1], HIP14, GASP-1, and Nedd4) that decrease insulin secretion from murine insulinoma MIN6B1 cells in response to the GLP-1 analog exendin-4
+  description:  Here, we screened 29 proteins with known functions in G protein-coupled receptor trafficking for their role in GLP-1R potentiation of insulin secretion in pancreatic β-cells. We identify five (clathrin, dynamin1, AP2, sorting nexins [SNX] SNX27, and SNX1) that increase and four (huntingtin-interacting protein 1 [HIP1], HIP14, GASP-1, and Nedd4) that decrease insulin secretion from murine insulinoma MIN6B1 cells in response to the GLP-1 analog exendin-4
   authors: Buenaventura T, Kanda N, Douzenis PC, Jones B, Bloom SR, Chabosseau P, Corrêa IR, Bosco D, Piemonti L, Marchetti P, Johnson PR, Shapiro AJ, Rutter GA, Tomas Aet al., 2017
   link:
     url: http://dx.doi.org/10.2337/db17-0639
@@ -494,9 +494,9 @@
   highlight: 0
 
 
-- title: "PCSK9 INHIBITION: "REAL WORLD" EXPERIENCE FROM THE HAMMERSMITH HOSPITAL LIPID CLINIC, LONDON"
+- title: "PCSK9 INHIBITION: REAL WORLD EXPERIENCE FROM THE HAMMERSMITH HOSPITAL LIPID CLINIC, LONDON"
   image: 
-  description: 
+  description: placeholder1
   authors: Cegla J, Walji S, Jones B, Scott Jet al., 2017
   link:
     url: http://dx.doi.org/10.1016/j.atherosclerosis.2017.06.792
@@ -506,7 +506,7 @@
 
 - title: "RAMP2 influences glucagon receptor pharmacology via trafficking and signaling"
   image: 
-  description: placeholder
+  description: placeholder2
   authors: Cegla J, Jones BJ, Gardiner JV, Hodson DJ, Marjot T, McGlone ER, Tan TM, Bloom SRet al., 2017
   link:
     url: http://dx.doi.org/10.1210/en.2016-1755
@@ -516,7 +516,7 @@
 
 - title: "Potent prearranged positive allosteric modulators of the glucagon-like peptide-1 receptor"
   image: 
-  description: placeholder
+  description: placeholder3
   authors: Jones BJ, Scopelliti R, Tomas A, Bloom SR, Hodson DJ, Broichhagen Jet al., 2017
   link:
     url: http://dx.doi.org/10.1002/open.201700062
@@ -526,7 +526,7 @@
 
 - title: "Development of a UHPLC-MS/MS (SRM) method for the quantitation of endogenous glucagon and dosed GLP-1 from human plasma"
   image: 
-  description: placeholder
+  description: placeholder4
   authors: Howard JW, Kay RG, Jones B, Cegla J, Tan T, Bloom S, Creaser CSet al., 2017
   link:
     url: http://dx.doi.org/10.4155/bio-2017-0021
@@ -536,7 +536,7 @@
 
 - title: "The preanalytical stability of glucagon as measured by liquid chromatography tandem mass spectrometry and two commercially available immunoassays"
   image: 
-  description: placeholder
+  description: placeholder5
   authors: Cegla J, Jones BJ, Howard J, Kay R, Creaser CS, Bloom SR, Tan TMet al., 2017
   link:
     url: http://dx.doi.org/10.1177/0004563216675648
@@ -546,7 +546,7 @@
 
 - title: "Allosteric optical control of a class B G-protein-coupled receptor"
   image: 
-  description: placeholder
+  description: placeholder6
   authors: Broichhagen J, Johnston NR, von Ohlen Y, Meyer-Berg H, Jones BJ, Bloom SR, Rutter GA, Trauner D, Hodson DJet al., 2016
   link:
     url: http://dx.doi.org/10.1002/anie.201600957
@@ -556,7 +556,7 @@
 
 - title: "Optical control of insulin secretion using an incretin switch"
   image: 
-  description: placeholder
+  description: placeholder7
   authors: Broichhagen J, Podewin T, Meyer-Berg H, von Ohlen Y, Johnston NR, Jones BJ, Bloom SR, Rutter GA, Hoffmann-Röder A, Hodson DJ, Trauner Det al., 2015
   link:
     url: http://dx.doi.org/10.1002/anie.201506384
@@ -566,7 +566,7 @@
 
 - title: "The new era of drug therapy for obesity: The evidence and the expectations"
   image: 
-  description: placeholder
+  description: placeholder8
   authors: Jones BJ, Bloom SR, 2015
   link:
     url: http://dx.doi.org/10.1007/s40265-015-0410-1
@@ -576,7 +576,7 @@
 
 - title: "Glucagon-like peptide 1 deficiency in type 1 diabetes?"
   image: 
-  description: placeholder
+  description: placeholder9
   authors: Jones B, 2015
   link:
     url: http://dx.doi.org/10.1177/0004563214559547
@@ -586,7 +586,7 @@
 
 - title: "Coinfusion of low-dose GLP-1 and glucagon in man results in a reduction in food intake"
   image: 
-  description: placeholder
+  description: placeholder10
   authors: Cegla J, Troke RC, Jones B, Tharakan G, Kenkre J, McCullough KA, Lim CT, Parvizi N, Hussein M, Chambers ES, Minnion J, Cuenco J, Ghatei MA, Meeran K, Tan TM, Bloom SRet al., 2014
   link:
     url: http://dx.doi.org/10.2337/db14-0242
@@ -596,7 +596,7 @@
 
 - title: "Comparison of the overnight metyrapone and glucagon stimulation tests in the assessment of secondary hypoadrenalism"
   image: 
-  description: placeholder
+  description: placeholder11
   authors: Cegla J, Jones B, Seyani L, Papadoulou D, Wynne K, Martin NM, Meeran K, Chapman R, Donaldson M, Goldstone AP, Tan Tet al., 2013
   link:
     url: 
@@ -606,7 +606,7 @@
 
 - title: "<i>In vitro</i> fertilization treatment influences glucose tolerance in multiple pregnancy"
   image: 
-  description: placeholder
+  description: placeholder12
   authors: Jones BJ, Zollner J, Haynes S, Cheng F, Dornhorst Aet al., 2013
   link:
     url: http://dx.doi.org/10.1111/j.1464-5491.2012.03761.x
@@ -616,7 +616,7 @@
 
 - title: "Novel mutations of ABCA1 transporter in patients with Tangier disease and familial HDL deficiency"
   image: 
-  description: placeholder
+  description: placeholder13
   authors: Fasano T, Zanoni P, Rabacchi C, Pisciotta L, Favari E, Adorni MP, Deegan PB, Park A, Hlaing T, Feher MD, Jones B, Uzak AS, Kardas F, Dardis A, Sechi A, Bembi B, Minuz P, Bertolini S, Bernini F, Calandra Set al., 2012
   link:
     url: http://dx.doi.org/10.1016/j.ymgme.2012.08.005
@@ -626,7 +626,7 @@
 
 - title: " Minireview: Glucagon in Stress and Energy Homeostasis"
   image: 
-  description: placeholder
+  description: placeholder14
   authors: Jones BJ, Tan T, Bloom SR, 2012
   link:
     url: http://dx.doi.org/10.1210/en.2011-1979
@@ -636,7 +636,7 @@
 
 - title: "Comparison of reflective and reflex testing for hypomagnesaemia in severe hypokalaemia"
   image: 
-  description: placeholder
+  description: placeholder15
   authors: Jones BJ, Twomey PJ, 2009
   link:
     url: http://dx.doi.org/10.1136/jcp.2008.060798
@@ -646,7 +646,7 @@
 
 - title: "Average serum triglyceride concentration in relation to day of the week in Burton-on-Trent"
   image: 
-  description: placeholder
+  description: placeholder16
   authors: Jones BJ, Twomey PJ, Reynolds T, 2009
   link:
     url: http://dx.doi.org/10.1136/jcp.2008.063933
@@ -656,7 +656,7 @@
 
 - title: "Appropriateness of the National Academy of Clinical Biochemistry recommendation of repeating HbA1c analysis for extreme results in clinical practice"
   image: 
-  description: placeholder
+  description: placeholder17
   authors: Yalamati P, Jones BJ, Twomey PJ, 2009
   link:
     url: http://dx.doi.org/10.1258/acb.2008.008153
@@ -666,7 +666,7 @@
 
 - title: "Requesting patterns for serum calcium concentration in patients on long-term lithium therapy"
   image: 
-  description: placeholder
+  description: placeholder18
   authors: Jones BJ, Twomey PJ, 2009
   link:
     url: http://dx.doi.org/10.1111/j.1742-1241.2008.01918.x
@@ -676,7 +676,7 @@
 
 - title: "Effect of a manually generated laboratory comment on requesting and performance of valproate assays"
   image: 
-  description: placeholder
+  description: placeholder19
   authors: Jones BJ, Twomey PJ, 2008
   link:
     url: http://dx.doi.org/10.1136/jcp.2008.060756
@@ -686,7 +686,7 @@
 
 - title: "Introduction of automatically generated comment in clinical biochemistry: an audit of technical effectiveness"
   image: 
-  description: placeholder
+  description: placeholder20
   authors: Twomey PJ, Jones BJ, Pledger DR, 2008
   link:
     url: http://dx.doi.org/10.1080/09674845.2008.11732806
@@ -696,7 +696,7 @@
 
 - title: "Neuroprotection by nicotine against hypoxia-induced apoptosis in cortical cultures involves activation of multiple nicotinic acetylcholine receptor subtypes"
   image: 
-  description: placeholder
+  description: placeholder21
   authors: Hejmadi MV, Dajas-Bailador F, Barns SM, Jones B, Wonnacott Set al., 2003
   link:
     url: http://dx.doi.org/10.1016/S1044-7431(03)00244-6
