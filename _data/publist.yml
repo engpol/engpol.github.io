@@ -291,7 +291,6 @@
   highlight: 0
 
 
-
 - title: "CBD effects on TRPV1 signaling pathways in cultured DRG neurons"
   image: 
   description: Cannabidiol (CBD) is reported to produce pain relief, but the clinically relevant cellular and molecular mechanisms remain uncertain. The TRPV1 receptor integrates noxious stimuli and plays a key role in pain signaling. Hence, we conducted in vitro studies, to elucidate the efficacy and mechanisms of CBD for inhibiting neuronal hypersensitivity in cultured rat sensory neurons, following activation of TRPV1
@@ -312,7 +311,6 @@
   highlight: 0
 
 
-
 - title: "Interrogating surface versusintracellular transmembrane receptor populations using cell-impermeable SNAP-tag substrates"
   image: 
   description: Here we describe a novel approach to improve extracellular labelling by functionalizing the SNAP-tag substrate benzyl guanine (“BG”) with a charged sulfonate (“SBG”)
@@ -321,7 +319,6 @@
     url: http://dx.doi.org/10.1039/d0sc02794d
     display: "Vol: 11, Pages: 7871-7883"
   highlight: 0
-
 
 
 - title: "Disconnect between signalling potency and in vivo efficacy of pharmacokinetically optimised biased glucagon-like peptide-1 receptor agonists"
@@ -342,7 +339,6 @@
     url: http://dx.doi.org/10.1101/2020.04.26.062372
     display: bioRxiv 
   highlight: 0
-
 
 
 - title: "Glucose in the hypothalamic paraventricular nucleus regulates GLP-1 release"
