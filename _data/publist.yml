@@ -271,13 +271,440 @@
   highlight: 0
 
 
-- title: ""
+- title: "Ligand-specific factors influencing GLP-1 receptor post-endocytic trafficking and degradation in pancreatic beta cells"
+  image: 
+  description:  Here, we have evaluated how different factors combine to control the post-endocytic trafficking of GLP-1R to recycling versus degradative pathways.
+  authors: Jones B, Fang Z, Chen S, Manchanda Y, Bitsi S, Pickford P, David A, Shchepinova MM, Corrêa Jr IR, Hodson DJ, Broichhagen J, Tate EW, Reimann F, Salem V, Rutter GA, Tan T, Bloom SR, Tomas Aet al., 2020
+  link:
+    url: http://dx.doi.org/10.3390/ijms21218404
+    display: "International Journal of Molecular Sciences, Vol: 212, Pages: 1-24"
+  highlight: 0
+
+
+- title: "Super-resolution microscopy compatible fluorescent probes reveal endogenous glucagon-like peptide-1 receptor distribution and dynamics."
+  image: 
+  description: Presently, GLP1R visualization is limited to genetic manipulation, antibody detection or the use of probes that stimulate receptor activation. Herein, we present LUXendin645, a far-red fluorescent GLP1R antagonistic peptide label. LUXendin645 produces intense and specific membrane labeling throughout live and fixed tissue
+  authors: Ast J, Arvaniti A, Fine NHF, Nasteska D, Ashford FB, Stamataki Z, Koszegi Z, Bacon A, Jones BJ, Lucey MA, Sasaki S, Brierley DI, Hastoy B, Tomas A, D'Agostino G, Reimann F, Lynn FC, Reissaus CA, Linnemann AK, D'Este E, Calebiro D, Trapp S, Johnsson K, Podewin T, Broichhagen J, Hodson DJet al., 2020
+  link:
+    url: http://dx.doi.org/10.1038/s41467-020-14309-w
+    display: "Nature Communications, Vol: 11"
+  highlight: 0
+
+
+
+- title: "CBD effects on TRPV1 signaling pathways in cultured DRG neurons"
+  image: 
+  description: Cannabidiol (CBD) is reported to produce pain relief, but the clinically relevant cellular and molecular mechanisms remain uncertain. The TRPV1 receptor integrates noxious stimuli and plays a key role in pain signaling. Hence, we conducted in vitro studies, to elucidate the efficacy and mechanisms of CBD for inhibiting neuronal hypersensitivity in cultured rat sensory neurons, following activation of TRPV1
+  authors: Anand U, Jones B, Korchev Y, Bloom S, Pacchetti B, Anand P, Sodergren Met al., 2020
+  link:
+    url: http://hdl.handle.net/10044/1/82342
+    display: "Journal of Pain Research, Vol: 2020, Pages: 2269-2278"  
+  highlight: 0
+
+
+- title: "Signalling, trafficking and glucoregulatory properties of glucagon-like peptide-1 receptor agonists exendin-4 and lixisenatide"
+  image: 
+  description: Changes to the C-terminus of exendin-4 affect signalling potency and GLP-1 receptor trafficking via mechanisms unrelated to GLP-1 receptor occupancy. These differences were associated with changes in their ability to control blood glucose and therefore may be therapeutically relevant.
+  authors: Pickford P, Lucey M, Fang Z, Bitsi S, Bernardino de la Serna J, Broichhagen J, Hodson DJ, Minnion J, Rutter GA, Bloom SR, Tomas A, Jones Bet al., 2020
+  link:
+    url:  http://dx.doi.org/10.1111/bph.15134
+    display:  "British Journal of Pharmacology, Vol: 177, Pages: 3905-3923"
+  highlight: 0
+
+
+
+- title: "Interrogating surface versusintracellular transmembrane receptor populations using cell-impermeable SNAP-tag substrates"
+  image: 
+  description: Here we describe a novel approach to improve extracellular labelling by functionalizing the SNAP-tag substrate benzyl guanine (“BG”) with a charged sulfonate (“SBG”)
+  authors: Poc P, Gutzeit VA, Ast J, Lee J, Jones BJ, D'Este E, Mathes B, Lehmann M, Hodson DJ, Levitz J, Broichhagen Jet al., 2020
+  link:
+    url: http://dx.doi.org/10.1039/d0sc02794d
+    display: "Vol: 11, Pages: 7871-7883"
+  highlight: 0
+
+
+
+- title: "Disconnect between signalling potency and in vivo efficacy of pharmacokinetically optimised biased glucagon-like peptide-1 receptor agonists"
+  image: 
+  description: C-terminal acylation of biased GLP-1R agonists increases their degree of signal bias in favour of cAMP production and improves their therapeutic potential
+  authors: Jones B, Pickford P, Lucey M, Tomas-Catala A, Minnion J, Bitsi S, Ungewiss J, Schoeneberg K, Rutter G, Bloom Set al., 2020
+  link:
+    url: http://dx.doi.org/10.1016/j.molmet.2020.100991
+    display: "Molecular Metabolism, Vol: 37"
+  highlight: 0
+
+
+- title: "Signal bias at glucagon family receptors: rationale and downstream impacts"
+  image: 
+  description: Here we first sought to establish the role of β-arrestins in the control of intracellular signalling and trafficking responses at the closely related GLP-1, GIP and GCG receptors, through studies performed in cells depleted of both β-arrestin isoforms. We also generated analogues of GLP-1, GCG and GIP which in some cases showed selective reduction in β-arrestin-2 recruitment versus cAMP signalling compared to the parent peptide
+  authors: Jones B, McGlone ER, Fang Z, Pickford P, Corrêa IR, Oishi A, Jockers R, Inoue A, Kumar S, Görlitz F, Dunsby C, French PMW, Rutter GA, Tan T, Tomas A, Bloom SRet al., 2020
+  link:
+    url: http://dx.doi.org/10.1101/2020.04.26.062372
+    display: bioRxiv 
+  highlight: 0
+
+
+
+- title: "Glucose in the hypothalamic paraventricular nucleus regulates GLP-1 release"
+  image: 
+  description: Here we identify a brain mechanism critical to the release of GLP-1 in response to oral glucose. We show that increasing expression of GK or injection of glucose into the PVN increases GLP-1 release in response to oral glucose. On the contrary, decreasing expression of GK or injection of nonmetabolizable glucose into the PVN prevents GLP-1 release.
+  authors: Ma Y, Ratnasabapathy R, De Backer I, Izzi-Engbeaya C, Nguyen-Tu M-S, Cuenco J, Jones B, John C, Lam B, Rutter G, Yeo G, Dhillo W, Gardiner Jet al., 2020
+  link:
+    url: http://dx.doi.org/10.1172/jci.insight.132760
+    display: "JCI insight, Vol: 5"
+  highlight: 0
+
+
+- title: "The influence of peptide context on signaling and trafficking of glucagon-like peptide-1 receptor biased agonists"
+  image: 
+  description: In the present study, we have evaluated a peptide series with varying sequence homology between native GLP-1 and exendin-4, the archetypal ligands on which approved GLP-1R agonists are based. We find notable differences in agonist-mediated cyclic AMP signaling, recruitment of β-arrestins, endocytosis, and recycling, dependent both on the introduction of a His → Phe switch at position 1 and the specific midpeptide helical regions and C-termini of the two agonists 
+  authors: Fang Z, Chen S, Pickford P, Broichhagen J, Hodson DJ, Corrêa IR, Kumar S, Görlitz F, Dunsby C, French PMW, Rutter GA, Tan T, Bloom SR, Tomas A, Jones Bet al., 2020
+  link:
+    url: http://dx.doi.org/10.1021/acsptsci.0c00022
+    display: "ACS Pharmacology & Translational Science, Vol: 3"
+  highlight: 0
+
+
+
+- title: "New insights into beta cell GLP-1 receptor and cAMP signaling"
+  image: 
+  description: In this review, we discuss recent advances in the current research on the GLP-1/GLP-1R system in beta cells, including the regulation of signaling by endocytic trafficking as well as the application of concepts such as signal bias, allosteric modulation, dual agonism, polymorphic receptor variants, spatial compartmentalization of cAMP signaling and new downstream signaling targets involved in the control of beta cell function
+  authors: Tomas A, Jones B, Leech C, 2020
+  link:
+    url: http://dx.doi.org/10.1016/j.jmb.2019.08.009
+    display: "Journal of Molecular Biology, Vol: 432, Pages: 1347-1366" 
+  highlight: 0
+
+
+- title: "The effects of dyslipidaemia and cholesterol modulation on erythrocyte susceptibility to malaria parasite infection"
+  image: 
+  description: Based on these observations, serum cholesterol does not appear to impact on erythrocyte susceptibility to merozoite entry. Indeed, no relationship between serum cholesterol and cholesterol content of the erythrocyte is apparent
+  authors: Koch M, Cegla J, Jones B, Lu Y, Mallar Z, Blagborough A, Angrisano F, Baum Jet al., 2019
+  link:
+    url:  http://dx.doi.org/10.1186/s12936-019-3016-3
+    display: "Malaria Journal, Vol: 18"
+  highlight: 0
+
+
+- title: "Ureidopeptide GLP-1 analogues with prolonged activity in vivo via signal bias and altered receptor trafficking"
+  image: 
+  description: Based on molecular dynamics simulations, N-terminally modified GLP-1 analogues with a ureido residue replacement at position 2 were synthesized and showed preservation of agonist activity while exhibiting a substantial increase in stability. This study demonstrates the efficacy of single α-amino acid substitution with ureido residues to design long lasting peptides
+  authors: Fremaux J, Venin C, Mauran L, Zimmer R, Koensgen F, Rognan D, Bitsi S, Lucey MA, Jones B, Tomas A, Guichard G, Goudreau SRet al., 2019
+  link:
+    url: http://dx.doi.org/10.1039/c9sc02079a
+    display: "Chemical Science, Vol: 42, Pages: 9872-9879"
+  highlight: 0
+
+
+
+- title: "Differences in signalling, trafficking and glucoregulatory properties of glucagon-like peptide-1 receptor agonists exendin-4 and lixisenatide"
+  image: 
+  description: Changes to the C-terminus of exendin-4 affect signalling potency and GLP-1R trafficking via mechanisms unrelated to GLP-1R occupancy. These differences were associated with changes in their ability to control blood glucose and therefore may be therapeutically relevant
+  authors: Pickford P, Lucey M, Fang Z, Bitsi S, Broichhagen J, Hodson DJ, Minnion J, Rutter GA, Bloom SR, Tomas A, Jones Bet al., 2019
+  link:
+    url: http://dx.doi.org/10.1101/803833
+    display: bioRxiv
+  highlight: 0
+
+
+
+- title: "Agonist-induced membrane nanodomain clustering drives GLP-1 receptor responses in pancreatic beta cells"
+  image: 
+  description: In the present study, we demonstrate an important role for the translocation of active GLP-1Rs into liquid-ordered plasma membrane nanodomains, which act as hotspots for optimal coordination of intracellular signaling and clathrin-mediated endocytosis. This process is dynamically regulated by agonist binding through palmitoylation of the GLP-1R at its carboxyl-terminal tail
+  authors: Buenaventura T, Bitsi S, Laughlin WE, Burgoyne T, Lyu Z, Oqua AI, Norman H, McGlone ER, Klymchenko AS, Corrêa IR, Walker A, Inoue A, Hanyaloglu A, Grimes J, Koszegi Z, Calebiro D, Rutter GA, Bloom SR, Jones B, Tomas Aet al., 2019
+  link:
+    url: http://dx.doi.org/10.1371/journal.pbio.3000097
+    display: "PLoS Biology, Vol: 17, Pages: 1-40"
+  highlight: 0
+
+
+- title: "Coronary heart disease mortality in severe vs. non-severe familial hypercholesterolaemia in the Simon Broome Register"
+  image: 
+  description: CHD mortality remains elevated in treated FH, especially for SFH, emphasising the importance of optimal lipid-lowering and management of other risk factors.
+  authors: Humphries SE, Cooper JA, Capps N, Durrington PN, Jones B, McDowell IFW, Soran H, Neil AHWet al., 2019
+  link:
+    url: http://dx.doi.org/10.1016/j.atherosclerosis.2018.11.014
+    display: "Atherosclerosis, Vol: 281, Pages: 207-212"
+  highlight: 0
+
+
+- title: "Agonist binding affinity determines palmitoylation of the glucagon-like peptide-1 receptor and its functional interaction with plasma membrane nanodomains in pancreatic beta cells"
+  image: 
+  description: Here, we demonstrate that the palmitoylated state of the GLP-1R is increased by agonist binding, leading to its segregation and clustering into plasma membrane signaling nanodomains before undergoing internalization in a clathrin-dependent manner
+  authors: Buenaventura T, Laughlin WE, Bitsi S, Burgoyne T, Lyu Z, Oqua AI, Norman H, McGlone ER, Klymchenko AS, Corrêa IR, Walker A, Inoue A, Hanyaloglou A, Rutter GA, Bloom SR, Jones B, Tomas Aet al., 2018
+  link:
+    url: http://dx.doi.org/10.1101/492496
+    display: "bioRxiv"
+  highlight: 0
+
+
+- title: "PRO-ATHEROSCLEROTIC LOW-DENSITY NEUTROPHILS ARE PRESENT IN HYPERCHOLESTEROLEMIA"
+  image: 
+  description: "NA"
+  authors: Cochran BJ, Pinheiro D, Prendecki M, Jones B, Cegla J, Lee V, Barter PJ, Murphy AJ, Rye K-A, Woollard KJet al., 2018
+  link:
+    url: http://dx.doi.org/10.1016/j.atherosclerosissup.2018.04.115
+    display: "International Symposium on Atherosclerosis (ISA)"
+  highlight: 0
+
+
+- title: "Glucagon-like peptide 1 receptor (GLP-1R) expression by nerve fibres in inflammatory bowel disease and functional effects in cultured neurons"
+  image: 
+  description: Our results show that increased GLP-1R innervation in IBD bowel could mediate enhanced visceral afferent signalling, and provide a peripheral target for therapeutic intervention. The differential effect of GLP-1R agonists on capsaicin and ATP responses in neurons suggest they may not affect pain mechanisms mediated by the capsaicin receptor TRPV1, but may enhance the effects of purinergic agonists
+  authors: Anand U, Yiangou Y, Akbar A, Quick T, MacQuillan A, Fox M, Sinisi M, Korchev YE, Jones B, Bloom SR, Anand Pet al., 2018
+  link:
+    url: http://dx.doi.org/10.1371/journal.pone.0198024
+    display: "PLoS ONE, Vol: 13"
+  highlight: 0
+
+
+- title: "Targeting GLP-1 receptor trafficking to improve agonist efficacy"
+  image: 
+  description:  Here, we investigate a series of biased GLP-1R agonists with variable propensities for GLP-1R internalization and recycling. Compared to a panel of FDA-approved GLP-1 mimetics, compounds that retain GLP-1R at the plasma membrane produce greater long-term insulin release, which is dependent on a reduction in β-arrestin recruitment and faster agonist dissociation rates
+  authors: Jones B, Buenaventura T, Kanda N, Chabosseau P, Owen B, Scott R, Goldin R, Angkathunyakul N, Correa Jr IR, Bosco D, Johnson PR, Piemonti L, Marchetti P, Shapiro AMJ, Cochran B, Hanyaloglu A, Inoue A, Tan T, Rutter G, Tomas Catala A, Bloom Set al., 2018
+  link:
+    url: http://dx.doi.org/10.1038/s41467-018-03941-2
+    display: "Nature Communications, Vol: 9"
+  highlight: 0
+
+
+- title: "Control of insulin secretion by GLP-1"
+  image: 
+  description: Here, we discuss recent findings concerning the signalling and trafficking of the GLP-1R in pancreatic beta cells. Leveraging “bias” at the receptor towards cAMP generation versus the recruitment of β-arrestins and extracellular signal-regulated kinases (ERK1/2) activation may allow the development of new analogues with significantly improved clinical efficacy
+  authors: Jones B, Bloom S, Buenaventura T, Tomas Catala ADD, Rutter Get al., 2018
+  link:
+    url:  http://dx.doi.org/10.1016/j.peptides.2017.12.013
+    display: "Peptides, Vol: 100, Pages: 75-84"
+  highlight: 0
+
+
+- title: "Conditional and reversible activation of class A and B G protein-coupled receptors using tethered pharmacology"
+  image: 
+  description:  Here, we describe the design, synthesis, and testing of ExONatide, a benzylguanine-linked peptide agonist of the glucagon-like peptide-1 receptor (GLP-1R), a class B GPCR required for maintenance of glucose levels in humans. ExONatide covalently binds to SNAP-tagged GLP-1R-expressing cells, leading to prolonged cAMP generation, Ca2+ rises, and intracellular retention of the receptor
+  authors: Podewin T, Ast J, Broichhagen J, Fine N, Nasteska D, Leippe P, Gailer M, Buenaventura T, Kanda N, Jones B, M'Kadmi C, Baneres J-L, Marie J, Tomas Catala A, Trauner D, Hoffmann-Röder A, Hodson Det al., 2018
+  link:
+    url: http://dx.doi.org/10.1021/acscentsci.7b00237
+    display: "ACS Central Science, Vol: 4, Pages: 166-179"
+  highlight: 0
+
+
+- title: "A targeted RNAi screen identifies endocytic trafficking factors that control GLP-1 receptor signaling in pancreatic beta cells"
+  image: 
+  description:  Here, we screened 29 proteins with known functions in G protein–coupled receptor trafficking for their role in GLP-1R potentiation of insulin secretion in pancreatic β-cells. We identify five (clathrin, dynamin1, AP2, sorting nexins [SNX] SNX27, and SNX1) that increase and four (huntingtin-interacting protein 1 [HIP1], HIP14, GASP-1, and Nedd4) that decrease insulin secretion from murine insulinoma MIN6B1 cells in response to the GLP-1 analog exendin-4
+  authors: Buenaventura T, Kanda N, Douzenis PC, Jones B, Bloom SR, Chabosseau P, Corrêa IR, Bosco D, Piemonti L, Marchetti P, Johnson PR, Shapiro AJ, Rutter GA, Tomas Aet al., 2017
+  link:
+    url: http://dx.doi.org/10.2337/db17-0639
+    display: "Diabetes, Vol: 67, Pages: 385-399"
+  highlight: 0
+
+
+- title: "PCSK9 INHIBITION: "REAL WORLD" EXPERIENCE FROM THE HAMMERSMITH HOSPITAL LIPID CLINIC, LONDON"
+  image: 
+  description: NA
+  authors: Cegla J, Walji S, Jones B, Scott Jet al., 2017
+  link:
+    url: http://dx.doi.org/10.1016/j.atherosclerosis.2017.06.792
+    display: "85th Congress of the European-Atherosclerosis-Society (EAS), Publisher: ELSEVIER IRELAND LTD, Pages: E244-E245"
+  highlight: 0
+
+
+- title: "RAMP2 influences glucagon receptor pharmacology via trafficking and signaling"
   image: 
   description: 
-  authors: 
+  authors: Cegla J, Jones BJ, Gardiner JV, Hodson DJ, Marjot T, McGlone ER, Tan TM, Bloom SRet al., 2017
+  link:
+    url: http://dx.doi.org/10.1210/en.2016-1755
+    display: "Endocrinology, Vol: 158, Pages: 2680-2693"
+  highlight: 0
+
+
+- title: "Potent prearranged positive allosteric modulators of the glucagon-like peptide-1 receptor"
+  image: 
+  description: 
+  authors: Jones BJ, Scopelliti R, Tomas A, Bloom SR, Hodson DJ, Broichhagen Jet al., 2017
+  link:
+    url: http://dx.doi.org/10.1002/open.201700062
+    display: "ChemistryOpen, Vol: 6, Pages: 501-505"
+  highlight: 0
+
+
+- title: "Development of a UHPLC-MS/MS (SRM) method for the quantitation of endogenous glucagon and dosed GLP-1 from human plasma"
+  image: 
+  description: 
+  authors: Howard JW, Kay RG, Jones B, Cegla J, Tan T, Bloom S, Creaser CSet al., 2017
+  link:
+    url: http://dx.doi.org/10.4155/bio-2017-0021
+    display: "BIOANALYSIS, Vol: 9, Pages: 733-751"
+  highlight: 0
+
+
+- title: "The preanalytical stability of glucagon as measured by liquid chromatography tandem mass spectrometry and two commercially available immunoassays"
+  image: 
+  description: 
+  authors: Cegla J, Jones BJ, Howard J, Kay R, Creaser CS, Bloom SR, Tan TMet al., 2017
+  link:
+    url: http://dx.doi.org/10.1177/0004563216675648
+    display: "Annals of Clinical Biochemistry, Vol: 54, Pages: 293-296"
+  highlight: 0
+
+
+- title: "Allosteric optical control of a class B G-protein-coupled receptor"
+  image: 
+  description: 
+  authors: Broichhagen J, Johnston NR, von Ohlen Y, Meyer-Berg H, Jones BJ, Bloom SR, Rutter GA, Trauner D, Hodson DJet al., 2016
+  link:
+    url: http://dx.doi.org/10.1002/anie.201600957
+    display: "Angewandte Chemie - International Edition, Vol: 55, Pages: 5865-5868"
+  highlight: 0
+
+
+- title: "Optical control of insulin secretion using an incretin switch"
+  image: 
+  description: 
+  authors: Broichhagen J, Podewin T, Meyer-Berg H, von Ohlen Y, Johnston NR, Jones BJ, Bloom SR, Rutter GA, Hoffmann-Röder A, Hodson DJ, Trauner Det al., 2015
+  link:
+    url: http://dx.doi.org/10.1002/anie.201506384
+    display: "Angewandte Chemie International Edition, Vol: 54, Pages: 15565-15569"
+  highlight: 0
+
+
+- title: "The new era of drug therapy for obesity: The evidence and the expectations"
+  image: 
+  description: 
+  authors: Jones BJ, Bloom SR, 2015
+  link:
+    url: http://dx.doi.org/10.1007/s40265-015-0410-1
+    display: "Drugs, Vol: 75, Pages: 935-945"
+  highlight: 0
+
+
+- title: "Glucagon-like peptide 1 deficiency in type 1 diabetes?"
+  image: 
+  description: 
+  authors: Jones B, 2015
+  link:
+    url: http://dx.doi.org/10.1177/0004563214559547
+    display: "ANNALS OF CLINICAL BIOCHEMISTRY, Vol: 52, Pages: 191-192"
+  highlight: 0
+
+
+- title: "Coinfusion of low-dose GLP-1 and glucagon in man results in a reduction in food intake"
+  image: 
+  description: 
+  authors: Cegla J, Troke RC, Jones B, Tharakan G, Kenkre J, McCullough KA, Lim CT, Parvizi N, Hussein M, Chambers ES, Minnion J, Cuenco J, Ghatei MA, Meeran K, Tan TM, Bloom SRet al., 2014
+  link:
+    url: http://dx.doi.org/10.2337/db14-0242
+    display: "Diabetes, Vol: 63, Pages: 3711-3720"
+  highlight: 0
+
+
+- title: "Comparison of the overnight metyrapone and glucagon stimulation tests in the assessment of secondary hypoadrenalism"
+  image: 
+  description: 
+  authors: Cegla J, Jones B, Seyani L, Papadoulou D, Wynne K, Martin NM, Meeran K, Chapman R, Donaldson M, Goldstone AP, Tan Tet al., 2013
   link:
     url: 
-    display:  
+    display: "CLINICAL ENDOCRINOLOGY, Vol: 78, Pages: 738-742"
+  highlight: 0
+
+
+- title: <i>In vitro</i> fertilization treatment influences glucose tolerance in multiple pregnancy
+  image: 
+  description: 
+  authors: Jones BJ, Zollner J, Haynes S, Cheng F, Dornhorst Aet al., 2013
+  link:
+    url: http://dx.doi.org/10.1111/j.1464-5491.2012.03761.x
+    display: "DIABETIC MEDICINE, Vol: 30, Pages: 252-254"
+  highlight: 0
+
+
+- title: "Novel mutations of ABCA1 transporter in patients with Tangier disease and familial HDL deficiency"
+  image: 
+  description: 
+  authors: Fasano T, Zanoni P, Rabacchi C, Pisciotta L, Favari E, Adorni MP, Deegan PB, Park A, Hlaing T, Feher MD, Jones B, Uzak AS, Kardas F, Dardis A, Sechi A, Bembi B, Minuz P, Bertolini S, Bernini F, Calandra Set al., 2012
+  link:
+    url: http://dx.doi.org/10.1016/j.ymgme.2012.08.005
+    display: "MOLECULAR GENETICS AND METABOLISM, Vol: 107, Pages: 534-541"
+  highlight: 0
+
+
+- title: " Minireview: Glucagon in Stress and Energy Homeostasis"
+  image: 
+  description: 
+  authors: Jones BJ, Tan T, Bloom SR, 2012
+  link:
+    url: http://dx.doi.org/10.1210/en.2011-1979
+    display: "ENDOCRINOLOGY, Vol: 153, Pages: 1049-1054"
+  highlight: 0
+
+
+- title: "Comparison of reflective and reflex testing for hypomagnesaemia in severe hypokalaemia"
+  image: 
+  description: 
+  authors: Jones BJ, Twomey PJ, 2009
+  link:
+    url: http://dx.doi.org/10.1136/jcp.2008.060798
+    display: "JOURNAL OF CLINICAL PATHOLOGY, Vol: 62, Pages: 816-819"
+  highlight: 0
+
+
+- title: "Average serum triglyceride concentration in relation to day of the week in Burton-on-Trent"
+  image: 
+  description: 
+  authors: Jones BJ, Twomey PJ, Reynolds T, 2009
+  link:
+    url: http://dx.doi.org/10.1136/jcp.2008.063933
+    display: "JOURNAL OF CLINICAL PATHOLOGY, Vol: 62, Pages: 671-672"
+  highlight: 0
+
+
+- title: "Appropriateness of the National Academy of Clinical Biochemistry recommendation of repeating HbA1c analysis for extreme results in clinical practice"
+  image: 
+  description: 
+  authors: Yalamati P, Jones BJ, Twomey PJ, 2009
+  link:
+    url: http://dx.doi.org/10.1258/acb.2008.008153
+    display: "ANNALS OF CLINICAL BIOCHEMISTRY, Vol: 46, Pages: 165-166"
+  highlight: 0
+
+
+- title: "Requesting patterns for serum calcium concentration in patients on long-term lithium therapy"
+  image: 
+  description: 
+  authors: Jones BJ, Twomey PJ, 2009
+  link:
+    url: http://dx.doi.org/10.1111/j.1742-1241.2008.01918.x
+    display: "INTERNATIONAL JOURNAL OF CLINICAL PRACTICE, Vol: 63, Pages: 170-172"
+  highlight: 0
+
+
+- title: "Effect of a manually generated laboratory comment on requesting and performance of valproate assays"
+  image: 
+  description: 
+  authors: Jones BJ, Twomey PJ, 2008
+  link:
+    url: http://dx.doi.org/10.1136/jcp.2008.060756
+    display: "JOURNAL OF CLINICAL PATHOLOGY, Vol: 61, Pages: 1231-1231"
+  highlight: 0
+
+
+- title: "Introduction of automatically generated comment in clinical biochemistry: an audit of technical effectiveness"
+  image: 
+  description: 
+  authors: Twomey PJ, Jones BJ, Pledger DR, 2008
+  link:
+    url: http://dx.doi.org/10.1080/09674845.2008.11732806
+    display: "BRITISH JOURNAL OF BIOMEDICAL SCIENCE, Vol: 65, Pages: 102-103"
+  highlight: 0
+
+
+- title: "Neuroprotection by nicotine against hypoxia-induced apoptosis in cortical cultures involves activation of multiple nicotinic acetylcholine receptor subtypes"
+  image: 
+  description: 
+  authors: Hejmadi MV, Dajas-Bailador F, Barns SM, Jones B, Wonnacott Set al., 2003
+  link:
+    url: http://dx.doi.org/10.1016/S1044-7431(03)00244-6
+    display: "MOLECULAR AND CELLULAR NEUROSCIENCE, Vol: 24, Pages: 779-786"
   highlight: 0
 
 
@@ -287,165 +714,6 @@
   authors: 
   link:
     url: 
-    display:  
+    display: ""
   highlight: 0
 
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
-
-
-- title: ""
-  image: 
-  description: 
-  authors: 
-  link:
-    url: 
-    display:  
-  highlight: 0
