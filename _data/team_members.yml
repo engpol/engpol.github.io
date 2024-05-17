@@ -1,9 +1,9 @@
 - name: Ben Jones
-  photo: Milan1.jpg
+  photo: Ben_Jones_Headshot.jpg
   info: Clinical Senior Lecturer, Group Leader
   email: ben.jones@imperial.ac.uk
   number_educ: 4
-  education1: Undergraduate medical training completed at the University of Cambridge - 2006
+  education1: Undergraduate medical training - University of Cambridge - 2006
   education2: Imperial College London Academic Clinical Fellow in Metabolic Medicine - 2010
   education3: MRC-funded Clinical Research Training Fellowship - 2013
   education4: Imperial Post-Doctoral, Post-CCT Fellowship (IPPRF) & MRC Clinician Scientist Fellowship - 2020
@@ -13,24 +13,24 @@
   info: PhD Student
   email: c.wong21@imperial.ac.uk
   number_educ: 3
-  education1: BSc University of Manchester (2016-2019)
-  education2: RA The Chinese University of Hong Kong (2021-2021)
-  eductaion3: MRes Imperial College London (2021-2022)
+  education1: BSc - University of Manchester - (2016-2019)
+  education2: RA - The Chinese University of Hong Kong - (2021-2021)
+  eductaion3: MRes - Imperial College London - (2021-2022)
 
 - name: Olivier Cahn
   photo: Sato.jpeg
   info: PhD Student
   email: o.cahn24@imperial.ac.uk
   number_educ: 2
-  education1: BSc University of Leicester (2019-2022)
-  education2: MPhil University of Cambridge (2022-2023)
+  education1: BSc - University of Leicester - (2019-2022)
+  education2: MPhil - University of Cambridge - (2022-2023)
 
 - name: Alex Turland
   photo: tjeruk.jpg
   info: PhD Student
   email: a.turland24@imperial.ac.uk
   number_educ: 1
-  education1: MSci University of Sussex (2018-2022)
+  education1: MSci - University of Sussex - (2018-2022)
   
 
 - name: Hanh Duyen Tran
@@ -38,7 +38,7 @@
   info: PhD Student
   email: h.tran24@imperial.ac.uk
   number_educ: 2
-  education1: Bsc ?
+  education1: BSc ?
   education2: MSc ?
 
 - name: Thomas Gozlinski
