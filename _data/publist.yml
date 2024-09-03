@@ -9,7 +9,7 @@
   highlight: 0
 
 - title: "Abolishing β-arrestin recruitment is necessary for the full metabolic benefits of G protein-biased glucagon-like peptide-1 receptor agonists"
-  image: imageaward_edited.png
+  image: Hinds_et_al_2024.png 
   description: Here we show that completely abolishing β-arrestin recruitment improves the anti-hyperglycaemic effects of GLP-1R agonists in mice.
   authors: Hinds CE, Peace E, Chen S, Davies I, El Eid L, Tomas A, Tan T, Minnion J, Jones B, Bloom SR
   link:
@@ -18,7 +18,7 @@
   highlight: 1
   
 - title: "GWAS of random glucose in 476,326 individuals provide insights into diabetes pathophysiology, complications and treatment stratification"
-  image: BSCCOgap.png
+  image: GWAS_Figure.png
   description: We discovered 120 RG loci represented by 150 distinct signals, including 13 with sex-dimorphic effects, two cross-ancestry and seven rare frequency signals
   authors: Lagou V, Jiang L, Ulrich A, Zudina L, González KSG, Balkhiyarova Z, Faggian A, Maina JG, Chen S, Todorov PV, Sharapov S, David A, Marullo L, Mägi R, Rujan R-M, Ahlqvist E, Thorleifsson G, Gao Η, Εvangelou Ε, Benyamin B, Scott RA, Isaacs A, Zhao JH, Willems SM, Johnson T, Gieger C, Grallert H, Meisinger C, Müller-Nurasyid M, Strawbridge RJ, Goel A, Rybin D, Albrecht E, Jackson AU, Stringham HM, Corrêa IR, Farber-Eger E, Steinthorsdottir V, Uitterlinden AG, Munroe PB, Brown MJ, Schmidberger J, Holmen O, Thorand B, Hveem K, Wilsgaard T, Mohlke KL, Wang Z, GWA-PA Consortium, Shmeliov A, den Hoed M, Loos RJF, Kratzer W, Haenle M, Koenig W, Boehm BO, Tan TM, Tomas A, Salem V, Barroso I, Tuomilehto J, Boehnke M, Florez JC, Hamsten A, Watkins H, Njølstad I, Wichmann H-E, Caulfield MJ, Khaw K-T, van Duijn CM, Hofman A, Wareham NJ, Langenberg C, Whitfield JB, Martin NG, Montgomery G, Scapoli C, Tzoulaki I, Elliott P, Thorsteinsdottir U, Stefansson K, Brittain EL, McCarthy MI, Froguel P, Sexton PM, Wootten D, Groop L, Dupuis J, Meigs JB, Deganutti G, Demirkan A, Pers TH, Reynolds CA, Aulchenko YS, Kaakinen MA, Jones B, Prokopenko I, Meta-Analysis of Glucose and Insulin-Related Traits Consortium MAGIC,
   link:
@@ -55,17 +55,17 @@
   link:
     url: http://dx.doi.org/10.1210/endocr/bqad028
     display:  "Endocrinology, Vol: 164, Pages: 1-15, 2023"
-  highlight: 1
+  highlight: 0
   
 
 - title: "Divergent acute versus prolonged pharmacological GLP-1R responses in adult beta cell-specific β-arrestin 2 knockout mice"
-  image: 
+  image: Catala_et_al_2023.png
   description: "Here, we have assessed in vivo glycemic responses to the pharmacological GLP-1R agonist exendin-4 in adult β cell-specific β-arrestin 2 knockout (KO) mice"
   authors: Tomas Catala A, Bitsi S, Manchanda Y, El Eid L, Oqua A, Mohamed N, Hansen B, Suba K, Rutter G, Jones B, Salem V
   link:
     url: https://www.science.org/doi/10.1126/sciadv.adf7737
     display: "Science Advances, Vol: 9, Pages: 1-23, 2023"
-  highlight: 0
+  highlight: 1
 
 
 - title: "The effect of adjusting LDL-cholesterol for Lp(a)-cholesterol on the diagnosis of familial hypercholesterolaemia"
@@ -322,13 +322,13 @@
 
 
 - title: "Disconnect between signalling potency and in vivo efficacy of pharmacokinetically optimised biased glucagon-like peptide-1 receptor agonists"
-  image: 
+  image: Jones_et_al_2020.png
   description: C-terminal acylation of biased GLP-1R agonists increases their degree of signal bias in favour of cAMP production and improves their therapeutic potential
   authors: Jones B, Pickford P, Lucey M, Tomas-Catala A, Minnion J, Bitsi S, Ungewiss J, Schoeneberg K, Rutter G, Bloom S
   link:
     url: http://dx.doi.org/10.1016/j.molmet.2020.100991
     display: "Molecular Metabolism, Vol: 37, 2020"
-  highlight: 0
+  highlight: 1
 
 
 - title: "Signal bias at glucagon family receptors: rationale and downstream impacts"
@@ -405,13 +405,13 @@
 
 
 - title: "Agonist-induced membrane nanodomain clustering drives GLP-1 receptor responses in pancreatic beta cells"
-  image: 
+  image: Buenaventura_et_al_2019.png
   description: In the present study, we demonstrate an important role for the translocation of active GLP-1Rs into liquid-ordered plasma membrane nanodomains, which act as hotspots for optimal coordination of intracellular signaling and clathrin-mediated endocytosis. This process is dynamically regulated by agonist binding through palmitoylation of the GLP-1R at its carboxyl-terminal tail
   authors: Buenaventura T, Bitsi S, Laughlin WE, Burgoyne T, Lyu Z, Oqua AI, Norman H, McGlone ER, Klymchenko AS, Corrêa IR, Walker A, Inoue A, Hanyaloglu A, Grimes J, Koszegi Z, Calebiro D, Rutter GA, Bloom SR, Jones B, Tomas A
   link:
     url: http://dx.doi.org/10.1371/journal.pbio.3000097
     display: "PLoS Biology, Vol: 17, Pages: 1-40, 2019"
-  highlight: 0
+  highlight: 1
 
 
 - title: "Coronary heart disease mortality in severe vs. non-severe familial hypercholesterolaemia in the Simon Broome Register"
@@ -455,13 +455,13 @@
 
 
 - title: "Targeting GLP-1 receptor trafficking to improve agonist efficacy"
-  image: 
+  image: Jones_et_al_2018.png
   description:  Here, we investigate a series of biased GLP-1R agonists with variable propensities for GLP-1R internalization and recycling. Compared to a panel of FDA-approved GLP-1 mimetics, compounds that retain GLP-1R at the plasma membrane produce greater long-term insulin release, which is dependent on a reduction in β-arrestin recruitment and faster agonist dissociation rates
   authors: Jones B, Buenaventura T, Kanda N, Chabosseau P, Owen B, Scott R, Goldin R, Angkathunyakul N, Correa Jr IR, Bosco D, Johnson PR, Piemonti L, Marchetti P, Shapiro AMJ, Cochran B, Hanyaloglu A, Inoue A, Tan T, Rutter G, Tomas Catala A, Bloom S
   link:
     url: http://dx.doi.org/10.1038/s41467-018-03941-2
     display: "Nature Communications, Vol: 9, 2018"
-  highlight: 0
+  highlight: 1
 
 
 - title: "Control of insulin secretion by GLP-1"

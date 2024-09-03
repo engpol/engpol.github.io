@@ -8,37 +8,22 @@ permalink: /research/
 
 # Research
 
-The Jones' lab primary focus is on understanding and exploiting biased agonism in incretin receptor pharmacology. The lab uses a variety of approaches to both study receptor signalling and binding mechanisms, and generate novel compounds with a range of 'biases' for differing signalling profiles. The motivations for this work are in improving exisiting pharmaceuticals approved for treating diabetes and obesity, as well as guiding future efforts in developing pharmacotherapies with superior tolerance and efficacy. 
+Our group is focussed on developing and understanding ways to fine tune G protein-coupled receptor (GPCR) signalling processes, which we hope will ultimately help with the design of new and improved treatments for common diseases including type 2 diabetes and obesity. The wide variety of intracellular transducers engaged by many GPCRs, including several G protein subunits, β-arrestins and more, means there are many ways we can modulate receptor responses, either for therapeutic purposes or to answer scientific questions.
 
-Here are some themes and techniques that we currently work on:
+We work mainly on receptor targets of gut hormones, which play important roles in energy homeostasis and, in many cases, have been proven to be excellent therapeutic targets for the treatment of metabolic disease. Much of our early work focussed on the glucagon-like peptide-1 receptor (GLP-1R), the target of blockbuster weight loss drugs semaglutide and tirzepatide, and this continues to be a strong focus. In particular we were able to show how “G protein-biased” GLP-1R agonists, which show much reduced tendency to recruit β-arrestins, show far better anti-hyperglycaemic properties in vivo as a result of reduced target desensitisation
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+Current work in the lab includes:
 
+**How does cellular background influence responses to biased agonists?.** We use biosensor approaches to measure signalling responses from primary tissues, e.g. using FRET. The aim is to establish whether the effects of biased agonism could differ between tissues, which might influence their response profile in vivo.
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+**The interplay between receptor trafficking and signalling.** Many GPCRs undergo agonist-mediated endocytosis, but this is also ligand-dependent. Moreover, the post-endocytic destination of the receptor can differ depending on the agonist. Therefore, the local environment of the activated receptor, and thus the type of proteins it is able to activate, can be agonist-specific. We are investigating the impact this has on downstream cellular responses.
 
-**Nanofabricated "Smart Tips"**.
+**Effects of naturally occurring and engineered missense mutations.**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+Like all proteins, GPCRs are subject to natural coding variation and, as a result, some people might show altered responses to the natural ligand for the receptor, or to therapeutic drugs. We use molecular pharmacological approaches to assess the effect of these receptor mutations on signalling, trafficking and downstream effects, and collaborate with geneticists to build a picture of the impact this can have on human phenotypes.
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+**The impact of the local membrane environment on receptor function.** As membrane proteins, GPCR function can potentially be modulated by cholesterol and other local lipid species. Moreover, the membrane composition dictates the organisation of both receptors and their transducer proteins, and thus their tendency to interact to drive signalling processes. As part of a large collaborative grant led by Alejandra Tomas, we are investigating the role of cholesterol as an allosteric modulator of class B GPCRs.
 
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
-
-
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
-
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
-
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+[//]: # (![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"})
 
 ### ... and more.
