@@ -63,6 +63,11 @@ We are grateful for funding from BLANK, [LMU ](https://www.lmu.de) [NWO](www.nwo
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_White_safe_area_2024.png" style="width:210px"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UKRI_MRC_Horizontal_RGB[W].png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-white.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Diabetes_UK.png" style="width: 210px">
+</figure>
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_White_safe_area_2024.png" style="width:210px"> 
 </figure>
