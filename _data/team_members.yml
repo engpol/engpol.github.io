@@ -8,57 +8,55 @@
   education3: MRC-funded Clinical Research Training Fellowship - 2013
   education4: Imperial Post-Doctoral, Post-CCT Fellowship (IPPRF) & MRC Clinician Scientist Fellowship - 2020
 
+- name: Murray Polkinghorne
+  photo: Murray.jpeg
+  info: Postdoc
+  email: test@testing
+  number_educ: 1
+  education1: Murray is originally from South Africa and joined the lab in 2024 after completing his DPhil (PhD) at the University of Oxford under the supervision of Prof Charalambos Antoniades and Prof Keith Channon. His previous experience includes an MPhil in Translational Biomedical Research at the University of Cambridge, an MBChB (MD) at the University of Cape Town, and a visiting research fellowship at the Mayo Clinic, USA. He is now investigating the receptor biology and molecular pharmacology of the GIP receptor to discover novel therapies for obesity and other metabolic diseases
+
+- name: Paulo Saldanha
+  photo: bio-photo.jpeg
+  info: Postdoc
+  email: test@testing
+  number_educ: 1
+  education1: Todo
+
+- name: Billy Baxter
+  photo: bio-photo.jpeg
+  info: Postdoc
+  email: test@testing
+  number_educ: 1
+  education1: Todo
+
 - name: Carissa Wong
-  photo: Jiasen.png
+  photo: Carrissa.jpg
   info: PhD Student
   email: c.wong21@imperial.ac.uk
-  number_educ: 3
-  education1: BSc - University of Manchester - (2016-2019)
-  education2: RA - The Chinese University of Hong Kong - (2021-2021)
-  eductaion3: MRes - Imperial College London - (2021-2022)
+  number_educ: 1
+  education1: Carissa first joined the lab in 2021 for her master’s degree in Clinical Research after completing her BSc in Biomedical Sciences at the University of Manchester. She briefly transitioned into industry, working for a Clinical Research Organisation after her master’s, before returning in 2024 for her PhD, focusing on the study of the pharmacology of anorectic gut hormone-derived treatments, including biased and combination therapies.
 
 - name: Olivier Cahn
   photo: Olivier_photo.jpg
   info: PhD Student
   email: o.cahn24@imperial.ac.uk
-  number_educ: 2
-  education1: BSc - University of Leicester - (2019-2022)
-  education2: MPhil - University of Cambridge - (2022-2023)
+  number_educ: 1
+  education1: Todo
 
 - name: Alex Turland
-  photo: tjeruk.jpg
+  photo: bio-photo.jpg
   info: PhD Student
   email: a.turland24@imperial.ac.uk
   number_educ: 1
-  education1: MSci - University of Sussex - (2018-2022)
+  education1: To do
   
-
 - name: Hanh Duyen Tran
-  photo: MengLi.jpg
+  photo: bio-photo.jpg
   info: PhD Student
   email: h.tran24@imperial.ac.uk
-  number_educ: 2
-  education1: BSc ?
-  education2: MSc ?
-
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Postdoc, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php).
-  education2: MSc KIT
-
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
-  number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
-
+  number_educ: 1
+  education1: To do 
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info

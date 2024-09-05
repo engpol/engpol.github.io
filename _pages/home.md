@@ -30,10 +30,16 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Micro_Blue.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jones_et_al_2018.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jones_et_al_2018.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jones_et_al_2020.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jones_et_al_2020.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG-20240405-WA0002.jpg" alt="Slide 5" />
+        </div>       
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Micro_Blue.jpg" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -49,7 +55,7 @@ permalink: /
 
 We are a research group based at the [Imperial Department of Metabolism, Digestion and Reproduction](https://www.imperial.ac.uk/metabolism-digestion-reproduction/). The primary research interests of the lab are in understanding mechanisms of action of biased agonists targeting increting receptors, and how these could be exploited in developing treatments for diabetes and obesity. Current active projects can be found [here](research). 
 
-We are grateful for funding from BLANK, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding from BLANK (Insert Funding info here)
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -58,10 +64,10 @@ We are grateful for funding from BLANK, [LMU ](https://www.lmu.de) [NWO](www.nwo
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UKRI_MRC_Horizontal_RGB[W].png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-white.png" style="width:180px;height:180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Diabetes_UK.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-white.png" style="width: 64px;height: 64px">
 </figure>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_White_safe_area_2024.png" style="width:210px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_White_safe_area_2024.png" style="width:280px"> 
 </figure>
