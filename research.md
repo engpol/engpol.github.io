@@ -24,6 +24,6 @@ Like all proteins, GPCRs are subject to natural coding variation and, as a resul
 
 **The impact of the local membrane environment on receptor function.** As membrane proteins, GPCR function can potentially be modulated by cholesterol and other local lipid species. Moreover, the membrane composition dictates the organisation of both receptors and their transducer proteins, and thus their tendency to interact to drive signalling processes. As part of a large collaborative grant led by Alejandra Tomas, we are investigating the role of cholesterol as an allosteric modulator of class B GPCRs.
 
-[//]: # (![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"})
+[//]: # (![]({{ site.url }}{{ site.baseurl }}/images/respic/Micro_Blue.png){: style="width: 70%; float: center; margin: 0px"})
 
 ### ... and more.

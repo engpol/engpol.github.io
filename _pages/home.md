@@ -27,19 +27,13 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG-20240405-WA0002.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Micro_Blue.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jones_et_al_2018.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Jones_et_al_2020.jpg" alt="Slide 4" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -63,9 +57,9 @@ We are grateful for funding from BLANK, [LMU ](https://www.lmu.de) [NWO](www.nwo
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UKRI_MRC_Horizontal_RGB[W].png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-white.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Diabetes_UK.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UKRI_MRC_Horizontal_RGB[W].png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-white.png" style="width:180px;height:180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Diabetes_UK.png" style="width: 180px">
 </figure>
 
 <figure class="fourth">

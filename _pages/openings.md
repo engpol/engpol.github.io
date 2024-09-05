@@ -17,5 +17,5 @@ We especially welcome postdocs with fellowships. I'd be happy to support you, af
  
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab_6N2.jpg" width="95%">
 </figure>
