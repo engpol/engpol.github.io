@@ -20,7 +20,7 @@
 - title: "GWAS of random glucose in 476,326 individuals provide insights into diabetes pathophysiology, complications and treatment stratification"
   image: GWAS_Figure.png
   description: We discovered 120 RG loci represented by 150 distinct signals, including 13 with sex-dimorphic effects, two cross-ancestry and seven rare frequency signals
-  authors: Lagou V, Jiang L, Ulrich A, Zudina L, González KSG, Balkhiyarova Z, Faggian A, Maina JG, Chen S, Todorov PV, Sharapov S, David A, Marullo L, Mägi R, Rujan R-M, Ahlqvist E, Thorleifsson G, Gao Η, Εvangelou Ε, Benyamin B, Scott RA, Isaacs A, Zhao JH, Willems SM, Johnson T, Gieger C, Grallert H, Meisinger C, Müller-Nurasyid M, Strawbridge RJ, Goel A, Rybin D, Albrecht E, Jackson AU, Stringham HM, Corrêa IR, Farber-Eger E, Steinthorsdottir V, Uitterlinden AG, Munroe PB, Brown MJ, Schmidberger J, Holmen O, Thorand B, Hveem K, Wilsgaard T, Mohlke KL, Wang Z, GWA-PA Consortium, Shmeliov A, den Hoed M, Loos RJF, Kratzer W, Haenle M, Koenig W, Boehm BO, Tan TM, Tomas A, Salem V, Barroso I, Tuomilehto J, Boehnke M, Florez JC, Hamsten A, Watkins H, Njølstad I, Wichmann H-E, Caulfield MJ, Khaw K-T, van Duijn CM, Hofman A, Wareham NJ, Langenberg C, Whitfield JB, Martin NG, Montgomery G, Scapoli C, Tzoulaki I, Elliott P, Thorsteinsdottir U, Stefansson K, Brittain EL, McCarthy MI, Froguel P, Sexton PM, Wootten D, Groop L, Dupuis J, Meigs JB, Deganutti G, Demirkan A, Pers TH, Reynolds CA, Aulchenko YS, Kaakinen MA, Jones B, Prokopenko I, Meta-Analysis of Glucose and Insulin-Related Traits Consortium MAGIC,
+  authors: Lagou V, Jiang L, Ulrich A, et al.
   link:
     url: http://dx.doi.org/10.1038/s41588-023-01462-3
     display: "Nature Genetics, Vol: 55, Pages: 1448-1461"

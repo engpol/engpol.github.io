@@ -55,9 +55,8 @@ permalink: /
 
 We are a research group based at the [Imperial Department of Metabolism, Digestion and Reproduction](https://www.imperial.ac.uk/metabolism-digestion-reproduction/). The primary research interests of the lab are in understanding mechanisms of action of biased agonists targeting increting receptors, and how these could be exploited in developing treatments for diabetes and obesity. Current active projects can be found [here](research). 
 
-We are grateful for funding from BLANK (Insert Funding info here)
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We may be looking for passionate new Postdocs or PhD and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
 
 
 
