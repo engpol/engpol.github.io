@@ -19,7 +19,7 @@ Current work in the lab includes:
 **The interplay between receptor trafficking and signalling.** Many GPCRs undergo agonist-mediated endocytosis, but this is also ligand-dependent. Moreover, the post-endocytic destination of the receptor can differ depending on the agonist. Therefore, the local environment of the activated receptor, and thus the type of proteins it is able to activate, can be agonist-specific. We are investigating the impact this has on downstream cellular responses.
 
 **Effects of naturally occurring and engineered missense mutations.**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/pubpic/Hinds_et_al_2024.png){: style="width: 250px; float: left; margin: 0px  10px"}
 Like all proteins, GPCRs are subject to natural coding variation and, as a result, some people might show altered responses to the natural ligand for the receptor, or to therapeutic drugs. We use molecular pharmacological approaches to assess the effect of these receptor mutations on signalling, trafficking and downstream effects, and collaborate with geneticists to build a picture of the impact this can have on human phenotypes.
 
 **The impact of the local membrane environment on receptor function.** As membrane proteins, GPCR function can potentially be modulated by cholesterol and other local lipid species. Moreover, the membrane composition dictates the organisation of both receptors and their transducer proteins, and thus their tendency to interact to drive signalling processes. As part of a large collaborative grant led by Alejandra Tomas, we are investigating the role of cholesterol as an allosteric modulator of class B GPCRs.
