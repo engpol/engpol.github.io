@@ -136,7 +136,7 @@ $table-bg-hover:                #020296 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
-$table-border-color:            $gray-lighter !default;
+$table-border-color:             #020296 !default;
 
 
 //== Buttons
@@ -867,4 +867,4 @@ $dl-horizontal-offset:        $component-offset-horizontal !default;
 //** Point at which .dl-horizontal becomes horizontal
 $dl-horizontal-breakpoint:    $grid-float-breakpoint !default;
 //** Horizontal line color.
-$hr-border:                   #ca0808 !default;
+$hr-border:                   #ca0808 !default; //Doesn't do anything
