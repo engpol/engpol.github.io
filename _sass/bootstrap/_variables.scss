@@ -8,11 +8,11 @@ $bootstrap-sass-asset-helper: false !default;
 //
 //## Gray and brand colors for use across Bootstrap.
 
-$gray-base:              #000000 !default; // This controls the main color for a number of features - keep same as body-bg
+$gray-base:              #3a005c !default; // This controls the main color for a number of features - keep same as body-bg
 $gray-darker:            lighten($gray-base, 33.5%) !default; // #222
-$gray-dark:              #aa0101  !default;   // #333 - Controls bold text - i.e. News, Welcome to Lab etc. - IMPORTANT 
+$gray-dark:              lighten($gray-base, 33.5%)  !default;   // #333 - Controls bold text - i.e. News, Welcome to Lab etc. - IMPORTANT 
 $gray:                   lighten($gray-base, 60%) !default; // #555 - doesn't change anything
-$gray-light:             lighten($gray-base, 70%) !default;   // #999 - Seems to only affect the text colour of the header buttons - IMPORTANT
+$gray-light:             lighten($gray-base, 40%) !default;   // #999 - Seems to only affect the text colour of the header buttons - IMPORTANT
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee - Dont think this does anything
 
 $brand-primary:         #5789f7 !default; //page-link (think hyperlink) text colour
@@ -128,7 +128,7 @@ $table-cell-padding:            8px !default;
 $table-condensed-cell-padding:  5px !default;
 
 //** Default background color used for all tables.
-$table-bg:                      rgb(77, 28, 193) !default; // Colour for inserts on home and reserach page - IMPORTANT 
+$table-bg:                      rgb(120, 72, 234) !default; // Colour for inserts on home and reserach page - IMPORTANT 
 //** Background color used for `.table-striped`.
 $table-bg-accent:               #0202a3 !default;
 //** Background color used for `.table-hover`.
