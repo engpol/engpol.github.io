@@ -108,7 +108,7 @@ $border-radius-large:       5px !default;
 $border-radius-small:       2px !default;
 
 //** Global color for active items (e.g., navs or dropdowns).
-$component-active-color:    #fff !default;
+$component-active-color:    #d40000 !default;
 //** Global background color for active items (e.g., navs or dropdowns).
 $component-active-bg:       $brand-primary !default;
 
@@ -579,9 +579,9 @@ $label-warning-bg:            $brand-warning !default;
 $label-danger-bg:             $brand-danger !default;
 
 //** Default label text color
-$label-color:                 #c60202 !default;
+$label-color:                 #c60202 !default; //doesn't do anything
 //** Default text color of a linked label
-$label-link-hover-color:      #dd0000 !default;
+$label-link-hover-color:      #dd0000 !default; //doesn't do anything
 
 
 //== Modals
@@ -711,9 +711,9 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #0202a3 !default;
+$panel-footer-bg:             #0202a3 !default; //think this is footer colour
 
-$panel-default-text:          $gray-dark !default;
+$panel-default-text:          $gray-dark !default; // colour of footer text  
 $panel-default-border:        transparent !default;
 $panel-default-heading-bg:    #f5f5f5 !default;
 
@@ -806,7 +806,7 @@ $breadcrumb-separator:          ">" !default;
 
 $carousel-text-shadow:                        0 1px 2px rgba(0,0,0,.6) !default;
 
-$carousel-control-color:                      #fff !default;
+$carousel-control-color:                      #fff !default; // Picture carousel on front page or pics page
 $carousel-control-width:                      15% !default;
 $carousel-control-opacity:                    .7 !default;
 $carousel-control-font-size:                  20px !default;
