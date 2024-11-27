@@ -136,7 +136,7 @@ $table-bg-hover:                #020296 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
-$table-border-color:             #020296 !default;
+$table-border-color:             #020296 !default; //doesnt do anything
 
 
 //== Buttons
@@ -608,7 +608,7 @@ $modal-backdrop-bg:           #000 !default;
 //** Modal backdrop opacity
 $modal-backdrop-opacity:      .5 !default;
 //** Modal header border color
-$modal-header-border-color:   #020296 !default;
+$modal-header-border-color:   #020296 !default; //doesnt do anything
 //** Modal footer border color
 $modal-footer-border-color:   $modal-header-border-color !default;
 
@@ -711,7 +711,7 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #0202a3 !default; //think this is footer colour
+$panel-footer-bg:             $navbar-default-bg !default; //think this is footer colour
 
 $panel-default-text:          $gray-dark !default; // colour of footer text  
 $panel-default-border:        transparent !default;
