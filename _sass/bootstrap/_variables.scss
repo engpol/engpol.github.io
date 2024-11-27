@@ -141,7 +141,7 @@ $table-border-color:            $gray-lighter !default;
 
 //== Buttons
 //
-//## For each of Bootstrap's buttons, define text, background and border color.
+//## For each of Bootstrap's buttons, define text, background and border color. - NO BUTTONS USED DOESN't DO ANYTHING
 
 $btn-font-weight:                normal !default;
 
@@ -365,8 +365,8 @@ $navbar-padding-horizontal:        floor(($grid-gutter-width / 2)) !default;
 $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2) !default;
 $navbar-collapse-max-height:       340px !default;
 
-$navbar-default-color:             $text-color !default; //header hover colour 
-$navbar-default-bg:                rgb(77, 28, 193) !default; // Header bg colour 
+$navbar-default-color:             $text-color !default; //header hover colour - IMPORTANT
+$navbar-default-bg:                rgb(77, 28, 193) !default; // Header bg colour - IMPORTANT
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -392,7 +392,7 @@ $navbar-default-toggle-border-color:       $gray-lighter !default;
 //=== Inverted navbar
 // Reset inverted navbar basics
 $navbar-inverse-color:                      $gray-light !default;
-$navbar-inverse-bg:                         #d50101 !default;
+$navbar-inverse-bg:                         #d50101 !default; //doesnt reeally do anything
 $navbar-inverse-border:                     darken($navbar-inverse-bg, 10%) !default;
 
 // Inverted navbar links
@@ -456,7 +456,7 @@ $pagination-hover-color:               $pagination-color !default;
 $pagination-hover-bg:                  $pagination-bg !default;
 $pagination-hover-border:              $pagination-border !default;
 
-$pagination-active-color:              #db1e1e !default; //doesnt do anything
+$pagination-active-color:              #db1e1e !default; //doesnt do anything - perhaps drop down active colour
 $pagination-active-bg:                 $brand-primary !default;
 $pagination-active-border:             $btn-primary-border !default;
 
@@ -487,7 +487,7 @@ $pager-disabled-color:                 $pagination-disabled-color !default;
 
 $jumbotron-padding:              30px !default;
 $jumbotron-color:                inherit !default;
-$jumbotron-bg:                   #0202a3 !default;
+$jumbotron-bg:                   rgb(77, 28, 193)  !default;
 $jumbotron-heading-color:        inherit !default;
 $jumbotron-font-size:            ceil(($font-size-base * 1.5)) !default;
 $jumbotron-heading-font-size:    ceil(($font-size-base * 4.5)) !default;
