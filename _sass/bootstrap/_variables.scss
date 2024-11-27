@@ -27,9 +27,9 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #bda6f1 !default; // Main colour of webpage - most of page excluding footer, header and other features
+$body-bg:               #bda6f1 !default; // Main colour of webpage - most of page excluding footer, header and other features - IMPORTANT
 //** Global text color on `<body>`.
-$text-color:            #5830b3ff !default; //Main text control - header and footer is controlled seperately
+$text-color:            rgb(113, 88, 171) !default; //Main text control - header and footer is controlled seperately - IMPORTANT
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
