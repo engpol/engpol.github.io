@@ -11,8 +11,8 @@ $bootstrap-sass-asset-helper: false !default;
 $gray-base:              #bda6f1 !default; // This controls the main color for a number of features - keep same as body-bg
 $gray-darker:            lighten($gray-base, 33.5%) !default; // #222
 $gray-dark:              lighten($gray-base, 40%) !default;   // #333
-$gray:                   lighten($gray-base, 60%) !default; // #555
-$gray-light:             #13bf3b !default;   // #999
+$gray:                   #c01616 !default; // #555
+$gray-light:             #13bf3b !default;   // #999 - Seems to only affect the text colour of the header buttons
 $gray-lighter:           #13bf3b !default; // #eee - Dont think this does anything
 
 $brand-primary:         #5789f7 !default; //page-link (think hyperlink) text colour
