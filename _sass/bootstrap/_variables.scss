@@ -8,7 +8,7 @@ $bootstrap-sass-asset-helper: false !default;
 //
 //## Gray and brand colors for use across Bootstrap.
 
-$gray-base:              #bda6f1 !default;
+$gray-base:              #bda6f1 !default; // This controls the main color for a number of features - keep same as body-bg
 $gray-darker:            lighten($gray-base, 33.5%) !default; // #222
 $gray-dark:              lighten($gray-base, 40%) !default;   // #333
 $gray:                   lighten($gray-base, 60%) !default; // #555
@@ -27,9 +27,9 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #bda6f1 !default;
+$body-bg:               #bda6f1 !default; // Main colour of webpage - most of page excluding footer, header and other features
 //** Global text color on `<body>`.
-$text-color:            #5830b3ff !default;
+$text-color:            #5830b3ff !default; //Main text control - header and footer is controlled seperately
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #0202a3 !default;
+$navbar-default-bg:                rgb(77, 28, 193) !default; 
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
