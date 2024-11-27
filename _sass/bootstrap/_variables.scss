@@ -10,7 +10,7 @@ $bootstrap-sass-asset-helper: false !default;
 
 $gray-base:              #000000 !default; // This controls the main color for a number of features - keep same as body-bg
 $gray-darker:            lighten($gray-base, 33.5%) !default; // #222
-$gray-dark:              lighten($gray-base, 40%) !default;   // #333
+$gray-dark:              #aa0101  !default;   // #333
 $gray:                   lighten($gray-base, 60%) !default; // #555 - doesn't change anything
 $gray-light:             lighten($gray-base, 70%) !default;   // #999 - Seems to only affect the text colour of the header buttons
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee - Dont think this does anything
