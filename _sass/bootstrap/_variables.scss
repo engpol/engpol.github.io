@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                rgb(77, 28, 193) !default; 
+$navbar-default-bg:                rgb(77, 28, 193) !default; // Header bg colour 
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -384,7 +384,7 @@ $navbar-default-brand-hover-color:         $navbar-default-link-hover-color !def
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
-$navbar-default-toggle-hover-bg:           #fff !default;
+$navbar-default-toggle-hover-bg:           #d00909 !default;
 $navbar-default-toggle-icon-bar-bg:        $gray-light !default;
 $navbar-default-toggle-border-color:       $gray-lighter !default;
 
