@@ -15,7 +15,7 @@ $gray:                   lighten($gray-base, 60%) !default; // #555 - doesn't ch
 $gray-light:             lighten($gray-base, 40%) !default;   // #999 - Seems to only affect the text colour of the header buttons - IMPORTANT
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee - Dont think this does anything
 
-$brand-primary:         #5789f7 !default; //page-link (think hyperlink) text colour
+$brand-primary:         #e865acff !default; //page-link (think hyperlink) text colour #5789f7 is regular
 $brand-success:         #28B62C !default;
 $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
@@ -128,7 +128,7 @@ $table-cell-padding:            8px !default;
 $table-condensed-cell-padding:  5px !default;
 
 //** Default background color used for all tables.
-$table-bg:                      rgb(120, 72, 234) !default; // Colour for inserts on home and reserach page - IMPORTANT 
+$table-bg:                      #329c90ff !default; // Colour for inserts on home and reserach page - IMPORTANT 
 //** Background color used for `.table-striped`.
 $table-bg-accent:               #0202a3 !default;
 //** Background color used for `.table-hover`.
