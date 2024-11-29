@@ -8,14 +8,14 @@ $bootstrap-sass-asset-helper: false !default;
 //
 //## Gray and brand colors for use across Bootstrap.
 
-$gray-base:              #133300ff !default; // This controls the main color for a number of features - keep same as body-bg
-$gray-darker:            lighten($gray-base, 33.5%) !default; // #222
-$gray-dark:              lighten($gray-base, 33.5%)  !default;   // #333 - Controls bold text - i.e. News, Welcome to Lab etc. - IMPORTANT 
-$gray:                   lighten($gray-base, 60%) !default; // #555 - doesn't change anything
-$gray-light:             lighten($gray-base, 40%) !default;   // #999 - Seems to only affect the text colour of the header buttons - IMPORTANT
+$gray-base:              #000 !default; // This controls the main color for a number of features - keep same as body-bg
+$gray-darker:            lighten($gray-base, 13.5%) !default; // #222
+$gray-dark:              lighten($gray-base, 20%)  !default;   // #333 - Controls bold text - i.e. News, Welcome to Lab etc. - IMPORTANT 
+$gray:                   lighten($gray-base, 33.5%) !default; // #555 - doesn't change anything
+$gray-light:             lighten($gray-base, 60%) !default;   // #999 - Seems to only affect the text colour of the header buttons - IMPORTANT
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee - Dont think this does anything
 
-$brand-primary:         #e865acff !default; //page-link (think hyperlink) text colour #5789f7 is regular
+$brand-primary:         #158CBA !default; //page-link (think hyperlink) text colour #5789f7 is regular
 $brand-success:         #28B62C !default;
 $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
@@ -27,9 +27,9 @@ $brand-danger:          #FF4136 !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #a6f1e3ff !default; // Main colour of webpage - most of page excluding footer, header and other features - IMPORTANT
+$body-bg:               #fff  !default; // Main colour of webpage - most of page excluding footer, header and other features - IMPORTANT
 //** Global text color on `<body>`.
-$text-color:            #133400ff !default; //Main text control - header and footer is controlled seperately - IMPORTANT
+$text-color:            $gray !default; //Main text control - header and footer is controlled seperately - IMPORTANT
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
@@ -128,7 +128,7 @@ $table-cell-padding:            8px !default;
 $table-condensed-cell-padding:  5px !default;
 
 //** Default background color used for all tables.
-$table-bg:                      #329c90ff !default; // Colour for inserts on home and reserach page - IMPORTANT 
+$table-bg:                      transparent !default; // Colour for inserts on home and reserach page - IMPORTANT 
 //** Background color used for `.table-striped`.
 $table-bg-accent:               #0202a3 !default;
 //** Background color used for `.table-hover`.
@@ -366,7 +366,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default; //header hover colour - IMPORTANT
-$navbar-default-bg:                #329c90ff !default; // Header bg colour - IMPORTANT
+$navbar-default-bg:                #f8f8f8 !default; // Header bg colour - IMPORTANT
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
@@ -487,7 +487,7 @@ $pager-disabled-color:                 $pagination-disabled-color !default;
 
 $jumbotron-padding:              30px !default;
 $jumbotron-color:                inherit !default;
-$jumbotron-bg:                   #329c90ff  !default; //don't think this does anything, but may be the news insert - IMPORTANT ???
+$jumbotron-bg:                   #fafafa  !default; //controls colour of news insert - IMPORTANT
 $jumbotron-heading-color:        inherit !default;
 $jumbotron-font-size:            ceil(($font-size-base * 1.5)) !default;
 $jumbotron-heading-font-size:    ceil(($font-size-base * 4.5)) !default;
