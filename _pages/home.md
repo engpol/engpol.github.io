@@ -62,11 +62,11 @@ We are a research group based at the [Imperial Department of Metabolism, Digesti
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UKRI_MRC_Horizontal_RGB[W].png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MRC_logo.png" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Diabetes_UK.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-white.png" style="width: 64px;height: 64px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-black.png" style="width: 64px;height: 64px">
 </figure>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_White_safe_area_2024.png" style="width:280px"> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/IMPERIAL_logo_RGB_Blue_2024.jpg" style="width:280px"> 
 </figure>
