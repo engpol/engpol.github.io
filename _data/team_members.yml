@@ -20,14 +20,14 @@
   education1: Todo
 
 - name: Iona Davies
-  photo: Iona_Davies.jpeg
+  photo: Iona_Davies.jpg
   info: Postdoc
   email: test@testing
   number_educ: 1
   education1: After completing her undergraduate degree in Cells and Systems Biology at the University of Oxford, Iona joined Tricia Tan’s lab in 2020 to undergo a master’s degree in Clinical Research. Iona continued on in Prof Tan’s lab to begin her MRC Doctoral Training Partnership in 2021, co-supervised by Ben Jones, focussing on tissue specific GIPR signalling. 
 
 - name: Billy Baxter
-  photo: Billy_Baxter.jpeg
+  photo: Billy_Baxter.jpg
   info: Postdoc
   email: test@testing
   number_educ: 1
