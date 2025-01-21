@@ -1,12 +1,9 @@
 - name: Ben Jones
-  photo: Ben_Jones_Headshot.jpg
+  photo: Ben_Jones.jpg
   info: Clinical Senior Lecturer, Group Leader
   email: ben.jones@imperial.ac.uk
   number_educ: 4
-  education1: Undergraduate medical training - University of Cambridge - 2006
-  education2: Imperial College London Academic Clinical Fellow in Metabolic Medicine - 2010
-  education3: MRC-funded Clinical Research Training Fellowship - 2013
-  education4: Imperial Post-Doctoral, Post-CCT Fellowship (IPPRF) & MRC Clinician Scientist Fellowship - 2020
+  education1: Ben Jones is a clinical senior lecturer and group leader. After training as a doctor he did his PhD at Imperial College with Steve Bloom and Tricia Tan, focussing on the GLP-1 receptor biology. He made some of the early discoveries about the role of “biased agonism” as a way to improve the therapeutic targeting of the GLP-1R in pancreatic islets, and has continued to expand this work to GLP-1R in other systems, and to other metabolically relevant GPCRs.
 
 - name: Murray Polkinghorne
   photo: Murray.jpeg
@@ -22,22 +19,29 @@
   number_educ: 1
   education1: Todo
 
-- name: Billy Baxter
-  photo: bio-photo.jpeg
+- name: Iona Davies
+  photo: Iona_Davies.jpeg
   info: Postdoc
   email: test@testing
   number_educ: 1
-  education1: Todo
+  education1: After completing her undergraduate degree in Cells and Systems Biology at the University of Oxford, Iona joined Tricia Tan’s lab in 2020 to undergo a master’s degree in Clinical Research. Iona continued on in Prof Tan’s lab to begin her MRC Doctoral Training Partnership in 2021, co-supervised by Ben Jones, focussing on tissue specific GIPR signalling. 
+
+- name: Billy Baxter
+  photo: Billy_Baxter.jpeg
+  info: Postdoc
+  email: test@testing
+  number_educ: 1
+  education1: Billy joined the group in 2024 after completing his PhD in respiratory pharmacology at Imperial College London. He has a strong background in pharmacological characterisation and is currently investigating the biased pharmacology of receptors implicated in metabolic disease.
 
 - name: Carissa Wong
-  photo: Carrissa.jpg
+  photo: Carrissa_Wong.jpg
   info: PhD Student
   email: c.wong21@imperial.ac.uk
   number_educ: 1
   education1: Carissa first joined the lab in 2021 for her master’s degree in Clinical Research after completing her BSc in Biomedical Sciences at the University of Manchester. She briefly transitioned into industry, working for a Clinical Research Organisation after her master’s, before returning in 2024 for her PhD, focusing on the study of the pharmacology of anorectic gut hormone-derived treatments, including biased and combination therapies.
 
 - name: Olivier Cahn
-  photo: Olivier_photo.jpg
+  photo: Olivier_Cahn.jpg
   info: PhD Student
   email: o.cahn24@imperial.ac.uk
   number_educ: 1
