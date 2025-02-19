@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-<!--- Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews) jump to syntax when we add pictures later-->
+Jump to: [Brighton](#brighton)
 
 
 ## Look out in the future!!! 
@@ -72,9 +72,10 @@ From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
 </figure>
 
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
 -->
+## Brighton
+Lab day out in Brighton!
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Brighton.png" width="60%">
+</figure>
+
