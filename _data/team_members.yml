@@ -13,7 +13,7 @@
   education1: Murray is originally from South Africa and joined the lab in 2024 after completing his DPhil (PhD) at the University of Oxford under the supervision of Prof Charalambos Antoniades and Prof Keith Channon. His previous experience includes an MPhil in Translational Biomedical Research at the University of Cambridge, an MBChB (MD) at the University of Cape Town, and a visiting research fellowship at the Mayo Clinic, USA. He is now investigating the receptor biology and molecular pharmacology of the GIP receptor to discover novel therapies for obesity and other metabolic diseases
 
 - name: Paulo Saldanha
-  photo: Paulo.jpeg
+  photo: Paulo.jpg
   info: Postdoc
   email: test@testing
   number_educ: 1
@@ -54,12 +54,12 @@
   number_educ: 1
   education1: Alex is looking into Peptide tyrosine tyrosine 3-36 (PYY 3-36) and its potential as an effective anti-obesity treatment. She will be exploring the concept of biased signalling within the neuropeptide Y (NPY) receptor family to discover new drug responses that could provide new therapeutic options. Her work includes characterising ligand-receptor interactions to improve mechanistic understanding and inform drug design. She is also investigating methods to improve the proteolytic stability of PYY 3-36, which is crucial for it's clinical use. 
   
-- name: Hanh Duyen Tran
+- name: Janh Duyen Tran
   photo: Jahn.jpg
   info: PhD Student
   email: h.tran24@imperial.ac.uk
   number_educ: 1
-  education1: Following the completion of her undergraduate research assistant role in Reproductive Physiology at King’s College London and BSc in Biomedical Sciences at St. George’s University of London, Hanh Duyen joined the Jones Lab in 2024 to pursue her postgraduate doctoral studies at Imperial College London. Her research project involves the investigation of biased signalling at the glucacon-like peptide-1 (GLP-1) receptor in vitro and in vivo to delineate the molecular signatures that drive its therapeutic benefits. 
+  education1: Following the completion of his undergraduate research assistant role in Reproductive Physiology at King’s College London and BSc in Biomedical Sciences at St. George’s University of London, Jahn Duyen joined the Jones Lab in 2024 to pursue his postgraduate doctoral studies at Imperial College London. Her research project involves the investigation of biased signalling at the glucacon-like peptide-1 (GLP-1) receptor in vitro and in vivo to delineate the molecular signatures that drive its therapeutic benefits. 
   
 - name: "This could be you !"
   photo: rock.jpg
