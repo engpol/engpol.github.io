@@ -13,11 +13,11 @@
   education1: Murray is originally from South Africa and joined the lab in 2024 after completing his DPhil (PhD) at the University of Oxford under the supervision of Prof Charalambos Antoniades and Prof Keith Channon. His previous experience includes an MPhil in Translational Biomedical Research at the University of Cambridge, an MBChB (MD) at the University of Cape Town, and a visiting research fellowship at the Mayo Clinic, USA. He is now investigating the receptor biology and molecular pharmacology of the GIP receptor to discover novel therapies for obesity and other metabolic diseases
 
 - name: Paulo Saldanha
-  photo: bio-photo.jpeg
+  photo: Paulo.jpeg
   info: Postdoc
   email: test@testing
   number_educ: 1
-  education1: Todo
+  education1: Paulo is originally from Portugal where he did his undergraduate and master degrees in Biochemistry at University of Beira Interior, Covilhã. He was part of two Marie Curie ITN Networks under the supervision of Professor Romuald Mentaverri, Amiens, France and Professor Guillermo Zalba, Pamplona, Spain. In 2018 he joined the Hull York Medical School where he completed his PhD under the supervision of Dr Francisco Rivero and Dr Leonid Nikitenko. He has a strong background of molecular biology techniques and previous experiments with animal models. He joined Professor Steve Bloom and Dr Ben Jones laboratory to study the receptor biology of calcitonin and calcitonin-like receptor families in metabolic diseases.
 
 - name: Iona Davies
   photo: Iona_Davies.jpg
@@ -52,14 +52,14 @@
   info: PhD Student
   email: a.turland24@imperial.ac.uk
   number_educ: 1
-  education1: To do
+  education1: Alex is looking into Peptide tyrosine tyrosine 3-36 (PYY 3-36) and its potential as an effective anti-obesity treatment. She will be exploring the concept of biased signalling within the neuropeptide Y (NPY) receptor family to discover new drug responses that could provide new therapeutic options. Her work includes characterising ligand-receptor interactions to improve mechanistic understanding and inform drug design. She is also investigating methods to improve the proteolytic stability of PYY 3-36, which is crucial for it's clinical use. 
   
 - name: Hanh Duyen Tran
-  photo: bio-photo.jpg
+  photo: Jahn.jpg
   info: PhD Student
   email: h.tran24@imperial.ac.uk
   number_educ: 1
-  education1: To do 
+  education1: Following the completion of her undergraduate research assistant role in Reproductive Physiology at King’s College London and BSc in Biomedical Sciences at St. George’s University of London, Hanh Duyen joined the Jones Lab in 2024 to pursue her postgraduate doctoral studies at Imperial College London. Her research project involves the investigation of biased signalling at the glucacon-like peptide-1 (GLP-1) receptor in vitro and in vivo to delineate the molecular signatures that drive its therapeutic benefits. 
   
 - name: "This could be you !"
   photo: rock.jpg

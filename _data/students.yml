@@ -2,22 +2,22 @@
   photo: rock.jpg
   info: MRes
   email:
-  number_educ: 1
-  education1: Todo
-
+  number_educ: 0
+  
+  
 - name: Lin Qian 
   photo: Lin.jpg
   info: MRes
   email:
-  number_educ: 1
-  education1: Todo
+  number_educ: 0
+  
 
 - name: Meixuan Wu 
   photo: rock.jpg
   info: MRes
   email:
-  number_educ: 1
-  education1: Todo
+  number_educ: 0
+  
 
 
 
