@@ -6,7 +6,11 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Brighton](#brighton)
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ben_gpcr_landscape.jpg" width="60%">
+</figure>
+
 
 <!---
 #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
