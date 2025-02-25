@@ -4,19 +4,22 @@
   email:
   number_educ: 0
   
-  
 - name: Lin Qian 
   photo: Lin.jpg
   info: MRes
   email:
   number_educ: 0
-  
 
 - name: Meixuan Wu 
   photo: rock.jpg
   info: MRes
   email:
   number_educ: 0
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://www.gpcr-bias.co.uk/vacancies">openings</a> for more info
+
   
 
 

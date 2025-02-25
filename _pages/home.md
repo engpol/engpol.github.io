@@ -58,15 +58,14 @@ We are particularly interested in understanding the links between ligand structu
 
 The lab uses a combination of techniques including ligand design, receptor engineering, in vitro signalling assays using immortalised and primary cell types, high throughput and high-resolution microscopy, and in vivo pharmacology and disease modelling. We are closely aligned with the gut hormone drug discovery group, allowing us implement these approaches in a therapeutic context.
 
-**If you are interested in joining the group as a student or postdoc, please** [(contact us.)]({{ site.url }}{{ site.baseurl }}/vacancies)**!**
-
-
-
+**If you are interested in joining the group as a student or postdoc, please** [(contact us.)]({{ site.url }}{{ site.baseurl }}/vacancies)
 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MRC_logo.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/white_square.png" style="width: 32px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Diabetes_UK.png" style="width: 180px">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/white_square.png" style="width: 32px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/wellcome-logo-black.png" style="width: 64px;height: 64px">
 </figure>
 
