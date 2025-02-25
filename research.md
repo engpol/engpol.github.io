@@ -14,11 +14,11 @@ We work mainly on receptor targets of gut hormones, which play important roles i
 
 Current work in the lab includes:
 
-**How does cellular background influence responses to biased agonists?.** We use biosensor approaches to measure signalling responses from primary tissues, e.g. using FRET. The aim is to establish whether the effects of biased agonism could differ between tissues, which might influence their response profile in vivo.
+**How does cellular background influence responses to biased agonists?** We use biosensor approaches to measure signalling responses from primary tissues, e.g. using FRET. The aim is to establish whether the effects of biased agonism could differ between tissues, which might influence their response profile in vivo.
 
 **The interplay between receptor trafficking and signalling.** Many GPCRs undergo agonist-mediated endocytosis, but this is also ligand-dependent. Moreover, the post-endocytic destination of the receptor can differ depending on the agonist. Therefore, the local environment of the activated receptor, and thus the type of proteins it is able to activate, can be agonist-specific. We are investigating the impact this has on downstream cellular responses.
 
-**Effects of naturally occurring and engineered missense mutations.**.
+**Effects of naturally occurring and engineered missense mutations.**
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/Hinds_et_al_2024.png){: style="width: 250px; float: left; margin: 0px  10px"}
 Like all proteins, GPCRs are subject to natural coding variation and, as a result, some people might show altered responses to the natural ligand for the receptor, or to therapeutic drugs. We use molecular pharmacological approaches to assess the effect of these receptor mutations on signalling, trafficking and downstream effects, and collaborate with geneticists to build a picture of the impact this can have on human phenotypes.
 
@@ -26,4 +26,4 @@ Like all proteins, GPCRs are subject to natural coding variation and, as a resul
 
 [//]: # (![]({{ site.url }}{{ site.baseurl }}/images/respic/Micro_Blue.png){: style="width: 70%; float: center; margin: 0px"})
 
-### ... and more.
+

@@ -7,6 +7,15 @@
     display: Molecular Metabolism - Volume 92, February 2025
   highlight: 0
 
+- title: "The physiological impact of an N-terminal Halo-tag on glucose-dependent insulinotropic polypeptide receptor function in mice"
+  image: dummy.png
+  description: we developed a GiprHalo/Halo mouse model for the study of endogenous GIPR expression and trafficking.
+  authors: Davies I, Manchanda Y, Sloop K, Bloom S, Tan T, Tomas A, Jones B
+  link:
+    url: https://doi.org/10.1111/dom.16216 
+    display: Diabetes, Obesity and Metabolism - Volume 27, February 2025
+  highlight: 0
+
 - title: "Computational modelling of dynamic cAMP responses to GPCR agonists for exploration of GLP-1R ligand effects in pancreatic &beta;-cells and neurons"
   image: dummy.png
   description: A new mathematical model is presented for investigation of dynamic cAMP responses to G protein-coupled receptor ligands.
