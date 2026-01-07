@@ -1,3 +1,21 @@
+- title: "Spatially diffuse cAMP signalling with oppositely biased GLP-1 receptor agonists in β-cells despite differences in receptor localisation"
+  image: dummy.png
+  description: Oppositely biased GLP-1R agonists show distinct receptor internalisation responses.
+  authors: Shiqian Chen, Carolina B. Lobato, Carissa Wong, Yusman Manchanda, Katrina Viloria, Iona Davies, Daniel B. Andersen, Julia Ast, Kyle W. Sloop, David J. Hodson, Johannes Broichhagen, Steve Bloom, Jens J. Holst, Tricia Tan, Alejandra Tomas, Ben Jones.
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S221287782500211X?via%3Dihub
+    display: Molecular Metabolism - Volume 103, January 2026
+  highlight: 0
+
+- title: "A metabolic comparison of GIPR agonism versus GIPR antagonism in male mice"
+  image: dummy.png
+  description: Targeting the glucose dependent insulinotropic polypeptide receptor (GIPR) is of growing interest for treating type 2 diabetes and obesity, though the optimal approach remains unclear. Both GIPR agonism and antagonism, respectively, incorporated into drugs like tirzepatide and maridebart cafraglutide, have paradoxically both shown significant weight loss effects in humans.
+  authors: Iona Davies PhD, Alexandra Turland MSc, Hanh Duyen Tran BSc, Carissa Wong MRes, Olivier Cahn MPhil, Cecilia Dunsterville PhD, Yichang Sun, Yilin Xiao BSc, Kevin G. Murphy PhD, Stephen R. Bloom DSc, Ben Jones PhD, Tricia M. M. Tan PhD
+  link:
+    url: https://doi.org/10.1111/dom.70300
+    display: Diabetes, Obesity and Metabolism - 2025; 1-8.
+  highlight: 0
+
 - title: "Chronic GIPR agonism results in pancreatic islet GIPR functional desensitisation"
   image: dummy.png
   description: There is renewed interest in targeting the glucose-dependent insulinotropic polypeptide receptor (GIPR) for treatment of obesity and type 2 diabetes. G-protein coupled receptor desensitisation is suggested to reduce the long-term efficacy of glucagon-like-peptide 1 receptor (GLP-1R) agonists and may similarly affect the efficacy of GIPR agonists. We explored the extent of pancreatic GIPR functional desensitisation with sustained agonist exposure.
